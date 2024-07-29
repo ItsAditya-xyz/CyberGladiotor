@@ -23,5 +23,4 @@ node_modules/   # Node.js dependencies
 node_modules 
 
 .parcel-cache
-dist 
 package-lock.json
